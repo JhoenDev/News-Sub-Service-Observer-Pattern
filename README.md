@@ -1,0 +1,1 @@
+# News-Sub-Service-Observer-Pattern
